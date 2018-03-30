@@ -5,3 +5,4 @@
 * 支持 `mouseover`, `mouseout`, `mouseover`, `click` 事件
 * 支持 矩形、圆形和多边形
 
+[文档](https://blog.csdn.net/stwuyiyu/article/details/50667676)
